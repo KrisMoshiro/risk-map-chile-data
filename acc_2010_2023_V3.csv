@@ -1,4 +1,4 @@
-﻿Fecha,Hora,Comuna,Accdtes.,Causas,Muertos,Graves,M/Grave,Leves,Ilesos,Urbano/Rural,Calleuno,Calledos,Frentenumero,Ruta,Ubicación km,Direccion,Latitud,Longitud
+﻿Fecha,Hora,Comuna,Accdtes.,Causas,Muertos,Graves,Menos Graves,Leves,Ilesos,Urbano/Rural,Calleuno,Calledos,Frentenumero,Ruta,Ubicación km,Direccion,Latitud,Longitud
 01/01/2010,02:54,IQUIQUE,Colisión,Conducción no atento condiciones transito momento,0,0,0,0,0,URBANO,PEDRO PRADO,ORELLA,,,,"IQUIQUE, PEDRO PRADO, ORELLA",-20.2212841,-70.1348904
 01/01/2010,04:14,IQUIQUE,Choque,Conducción no atento condiciones transito momento,0,0,0,0,0,URBANO,AV. LA TIRANA,CALLE 6,,,,"IQUIQUE, AV. LA TIRANA, CALLE 6",-20.2307033,-70.1356692
 02/01/2010,21:39,IQUIQUE,Atropello,No respetar derecho preferente de paso a peatón,0,0,1,0,1,URBANO,JUAN MARTINEZ,SARGENTO ALDEA,,,,"IQUIQUE, JUAN MARTINEZ, SARGENTO ALDEA",-20.2160713,-70.1451094
