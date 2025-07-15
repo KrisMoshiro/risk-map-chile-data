@@ -14,9 +14,9 @@ Repositorio Back-End del proyecto de investigación con minería de datos.
 
 El proyecto completo está dividido en tres repositorios:
 
-- **Frontend:** [`risk-map-iquique-front`](https://github.com/krismoshiro/risk-map-chile-front) 
-- **Backend:** [`risk-map-iquique-back`](https://github.com/vistor05/risk_map_chile_back) 
-- **Datos:** [`risk-map-iquique-data`](https://github.com/krismoshiro/risk-map-chile-data) ← *este repositorio*
+- **Frontend:** [`risk-map-chile-front`](https://github.com/krismoshiro/risk-map-chile-front) 
+- **Backend:** [`risk-map-chile-back`](https://github.com/vistor05/risk_map_chile_back) 
+- **Datos:** [`risk-map-chile-data`](https://github.com/krismoshiro/risk-map-chile-data) ← *este repositorio*
 
 ---
 
@@ -88,7 +88,7 @@ Analizar los accidentes de tránsito en la región de Tarapacá entre los años 
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/KrisMoshiro/risk_map_chile_data.git
+git clone https://github.com/KrisMoshiro/risk-map-chile-data.git
 cd risk-map-iquique-data
 
 # Instalar dependencias
