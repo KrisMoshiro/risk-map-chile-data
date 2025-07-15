@@ -56,12 +56,6 @@ Analizar los accidentes de tránsito en la región de Tarapacá entre los años 
 - [FastAPI](https://fastapi.tiangolo.com/) (creación de APIs REST)
 - [DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) (clustering espacial)
 
-
-## 📄 Documentación de la API
-
-👉 La documentación completa está disponible en Swagger:  
-🔗 **[https://risk-map-iquique-back.onrender.com/docs#/](https://risk-map-chile-back.onrender.com/docs#/)**
-
 ## 🧠 Proceso de Minería de Datos
 
 ### 1. Comprensión del Negocio
