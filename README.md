@@ -1,12 +1,12 @@
 # 🌍 Risk Map Chile Data
 
-![Project Banner](https://img.shields.io/github/deployments/krismoshiro/risk-map-iquique-front/github-pages?label=Deploy&style=flat-square)
+![Project Banner](https://img.shields.io/github/deployments/krismoshiro/risk-map-chile-front/github-pages?label=Deploy&style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Servicio para la visualización interactiva de zonas críticas de accidentes en la Región de Tarapacá, Chile**  
 Repositorio Back-End del proyecto de investigación con minería de datos.
 
-🔗 **Demo:** [https://krismoshiro.github.io/risk-map-iquique-front/](https://krismoshiro.github.io/risk-map-iquique-front/)
+🔗 **Demo:** [https://krismoshiro.github.io/risk-map-iquique-front/](https://krismoshiro.github.io/risk-map-chile-front/)
 
 ---
 
@@ -60,7 +60,7 @@ Analizar los accidentes de tránsito en la región de Tarapacá entre los años 
 ## 📄 Documentación de la API
 
 👉 La documentación completa está disponible en Swagger:  
-🔗 **[https://risk-map-iquique-back.onrender.com/docs#/](https://risk-map-iquique-back.onrender.com/docs#/)**
+🔗 **[https://risk-map-iquique-back.onrender.com/docs#/](https://risk-map-chile-back.onrender.com/docs#/)**
 
 ## 🧠 Proceso de Minería de Datos
 
