@@ -1,4 +1,4 @@
-# 🌍 Risk Map Iquique Data
+# 🌍 Risk Map Chile Data
 
 ![Project Banner](https://img.shields.io/github/deployments/krismoshiro/risk-map-iquique-front/github-pages?label=Deploy&style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -14,9 +14,9 @@ Repositorio Back-End del proyecto de investigación con minería de datos.
 
 El proyecto completo está dividido en tres repositorios:
 
-- **Frontend:** [`risk-map-iquique-front`](https://github.com/krismoshiro/risk-map-iquique-front) 
-- **Backend:** [`risk-map-iquique-back`](https://github.com/vistor05/Risk_Map_Iquique_Back) 
-- **Datos:** [`risk-map-iquique-data`](https://github.com/krismoshiro/risk-map-iquique-data) ← *este repositorio*
+- **Frontend:** [`risk-map-iquique-front`](https://github.com/krismoshiro/risk-map-chile-front) 
+- **Backend:** [`risk-map-iquique-back`](https://github.com/vistor05/risk_map_chile_back) 
+- **Datos:** [`risk-map-iquique-data`](https://github.com/krismoshiro/risk-map-chile-data) ← *este repositorio*
 
 ---
 
@@ -94,7 +94,7 @@ Analizar los accidentes de tránsito en la región de Tarapacá entre los años 
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/KrisMoshiro/risk_map_iquique_data.git
+git clone https://github.com/KrisMoshiro/risk_map_chile_data.git
 cd risk-map-iquique-data
 
 # Instalar dependencias
