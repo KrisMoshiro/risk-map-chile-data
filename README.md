@@ -6,7 +6,7 @@
 **Servicio para la visualización interactiva de zonas críticas de accidentes en la Región de Tarapacá, Chile**  
 Repositorio Back-End del proyecto de investigación con minería de datos.
 
-🔗 **Demo:** [https://krismoshiro.github.io/risk-map-iquique-front/](https://krismoshiro.github.io/risk-map-chile-front/)
+🔗 **Demo:** [https://krismoshiro.github.io/risk-map-chile-front/](https://krismoshiro.github.io/risk-map-chile-front/)
 
 ---
 
